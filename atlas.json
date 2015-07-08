@@ -29,7 +29,8 @@
       "index": false,
       "syntaxhighlighting": false,
       "show_comments": false,
-      "consolidated": false
+      "consolidated": false,
+      "fragment" : true
     }
   },
   "theme": "oreillymedia/atlas_tech1c_theme",
