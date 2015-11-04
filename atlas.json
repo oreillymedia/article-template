@@ -30,7 +30,8 @@
       "syntaxhighlighting": false,
       "show_comments": false,
       "consolidated": false,
-      "fragment" : false
+      "fragment" : true,
+      "demote" : true
     }
   },
   "theme": "oreillymedia/atlas_tech1c_theme",
