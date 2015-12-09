@@ -29,7 +29,7 @@
       "index": false,
       "syntaxhighlighting": false,
       "show_comments": false,
-      "consolidated": false,
+      "consolidated": true,
       "fragment" : true,
       "demote" : true
     }
