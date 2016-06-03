@@ -9,7 +9,8 @@
       "toc": false,
       "index": false,
       "syntaxhighlighting": true,
-      "show_comments": false
+      "show_comments": false,
+      "antennahouse_version": "AHFormatterV62_64-MR4"
     },
     "epub": {
       "toc": false,
